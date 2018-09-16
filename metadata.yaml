@@ -1,0 +1,36 @@
+_repo: Wau-Bun-The-Early-Day-of-the-North-West_51737
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kinzie, John H., Mrs.
+    aliases:
+    - Kinzie, Mrs. John H.
+    - Kinzie, Juliette Augusta Magill
+    birthdate: 1806
+    deathdate: 1870
+    gutenberg_agent_id: '4254'
+    url: http://www.gutenberg.org/2009/agents/4254
+    wikipedia: http://en.wikipedia.org/wiki/Juliette_Augusta_Magill_Kinzie
+description: ''
+gutenberg_issued: '2016-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Old -- History -- 1775-1865'
+- !lcsh 'Chicago (Ill.) -- History'
+- !lcsh 'Portage (Wis.)'
+- !lcc 'F476'
+- !lcsh 'Frontier and pioneer life -- Northwest, Old'
+- !lcsh 'Indians of North America -- Northwest, Old'
+- !lcsh 'Illinois -- Description and travel'
+- !lcsh 'Northwest, Old -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- Wisconsin'
+- !lcsh 'Kinzie, John H., Mrs., 1806-1870'
+- GITenberg
+title: 'Wau-Bun: The "Early Day" of the North-West'
+url: http://www.gutenberg.org/ebooks/51737
